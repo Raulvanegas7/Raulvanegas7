@@ -40,6 +40,3 @@ Algunas de las tecnologías con las que trabajo incluyen:
   
 
 
-Credits: [LachlanDev](https://github.com/LachlanDev)
-
-Last Edited on: 15/02/2025
