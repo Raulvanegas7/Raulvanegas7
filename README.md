@@ -1,4 +1,3 @@
-<div align="center">
   
 ## Hola! Mi nombre es Raul Vanegas
 
@@ -38,8 +37,7 @@ Algunas de las tecnologías con las que trabajo incluyen:
 -------------------
   
 
- <div>
-
+ 
 -----
 Credits: [LachlanDev](https://github.com/LachlanDev)
 
