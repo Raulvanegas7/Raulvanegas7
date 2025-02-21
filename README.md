@@ -20,7 +20,14 @@ Hello, I am full stack developer, working on multiple open source projects, main
 -------------------
 
 ## ¿Que tecnologias uso?
-Hello, I am full stack developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.
+Algunas de las tecnologías con las que trabajo incluyen:
+- Node.JS
+- MongoDB
+- JavaScript
+- TypeScript
+- Express.js
+- NestJS
+- Git y GitHub
 
 -------------------
 
