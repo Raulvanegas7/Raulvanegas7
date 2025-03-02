@@ -4,17 +4,17 @@
 -------------------
 
 ## ¿Quien soy?
-Hello, I am full stack developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.
+Hola, soy un desarrollador full stack con experiencia en múltiples proyectos de código abierto. Me especializo en backend con Node.js y MongoDB, aunque también tengo conocimientos en frontend. Me apasiona construir soluciones eficientes y escalables, automatizando procesos y creando aplicaciones dinámicas.
 
 -------------------
 
 ## ¿Que hago?
-Hello, I am full stack developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.
+Actualmente, desarrollo y mantengo diversas aplicaciones, incluyendo bots de Discord que han alcanzado la verificación oficial. Además, contribuyo a proyectos open source y experimento con nuevas tecnologías para mejorar mis habilidades.
 
 -------------------
 
 ## ¿A donde me dirijo?
-Hello, I am full stack developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.
+Estoy en constante aprendizaje y explorando nuevas herramientas para mejorar mis habilidades como desarrollador. Me interesa la arquitectura de software, las bases de datos escalables y la optimización del rendimiento en backend. Mi objetivo es seguir construyendo proyectos innovadores y aportar al ecosistema open source.
 
 -------------------
 
