@@ -4,17 +4,20 @@
 -------------------
 
 ## ¿Quien soy?
-Hola, soy un desarrollador full stack con experiencia en múltiples proyectos de código abierto. Me especializo en backend con Node.js y MongoDB, aunque también tengo conocimientos en frontend. Me apasiona construir soluciones eficientes y escalables, automatizando procesos y creando aplicaciones dinámicas.
+Hola, soy desarrollador backend con enfoque en tecnologías modernas como ASP.NET con MongoDB y NestJS con PostgreSQL. Tengo experiencia trabajando en proyectos de código abierto y me apasiona construir soluciones eficientes, mantenibles y escalables, aplicando buenas prácticas y principios de arquitectura limpia. Me motiva automatizar procesos, optimizar flujos y desarrollar aplicaciones dinámicas que generen valor real.
 
 -------------------
 
 ## ¿Que hago?
-Actualmente, desarrollo y mantengo diversas aplicaciones, incluyendo bots de Discord que han alcanzado la verificación oficial. Además, contribuyo a proyectos open source y experimento con nuevas tecnologías para mejorar mis habilidades.
+Actualmente me dedico al desarrollo backend, creando APIs RESTful robustas y bien estructuradas con tecnologías como NestJS + PostgreSQL y .NET Core + MongoDB. Trabajo en la implementación de sistemas de gestión de productos, pedidos y usuarios, aplicando principios SOLID, arquitectura limpia y documentación con Swagger.
+Me gusta estar en constante evolución, explorando nuevas herramientas, aprendiendo de la comunidad y enfrentando desafíos que me reten como profesional y como apasionado por la tecnología.
 
 -------------------
 
 ## ¿A donde me dirijo?
-Estoy en constante aprendizaje y explorando nuevas herramientas para mejorar mis habilidades como desarrollador. Me interesa la arquitectura de software, las bases de datos escalables y la optimización del rendimiento en backend. Mi objetivo es seguir construyendo proyectos innovadores y aportar al ecosistema open source.
+Estoy enfocado en seguir creciendo como desarrollador backend especializado, profundizando en áreas como arquitectura de software, diseño de sistemas escalables y optimización de rendimiento en aplicaciones backend. Me interesa trabajar en entornos donde pueda aplicar soluciones sólidas, limpias y eficientes utilizando tecnologías como NestJS, .NET, PostgreSQL y MongoDB.
+
+Mi objetivo es seguir construyendo proyectos que generen impacto real, aportar activamente a la comunidad open source, y colaborar en equipos donde el código de calidad y la mejora continua sean prioridad. Aspiro a convertirme en un referente técnico en el desarrollo backend, combinando mi experiencia, disciplina y pasión por aprender.
 
 -------------------
 
