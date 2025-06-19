@@ -20,11 +20,11 @@ Estoy en constante aprendizaje y explorando nuevas herramientas para mejorar mis
 
 ## ¿Que tecnologias uso?
 Algunas de las tecnologías con las que trabajo incluyen:
-- Node.JS
+- ASP.NET Core (C#)
 - MongoDB
 - JavaScript
 - TypeScript
-- Express.js
+- PostgreSQL
 - NestJS
 - Git y GitHub
 
